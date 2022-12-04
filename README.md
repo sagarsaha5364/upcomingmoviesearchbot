@@ -56,7 +56,7 @@ You can deploy this bot anywhere.
 
 <p>
 <pre>
-git clone https://github.com/LazyDeveloperr/LazyUrlHunterrBOT
+git clone https://github.com/sagarsaha5364/upcomingmoviesearchbot
 # Install Packages
 pip3 install -r requirements.txt
 Edit configs.py with variables as given below then run bot
